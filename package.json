@@ -1,0 +1,17 @@
+{
+  "name": "discord-dynamic-status",
+  "version": "1.0.0",
+  "description": "A tool to create dynamic statuses.",
+  "repository": {
+    "url": "https://github.com/BotNC/discord-dynamic-status"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BotNC",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
